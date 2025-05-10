@@ -1,7 +1,7 @@
-# BIMNet
+# 🌧️BIMNet
 The code of the paper "Bidirectional Interactive Multi-scale Network using Wave-Conv ViT for Single Image Deraining".<br>
 
-# Important Requirements
+# ⚙️Important Requirements
 python = 3.7  
 
 pytorch = 1.9  
@@ -12,30 +12,33 @@ numpy = 1.21
 
 pytorch-wavelets = 1.3.0
 
-# Getting Started
-## Train
-Run shell scripts to train the models  
-
-`python train.py`
-
+# 🚀Getting Started
 ## Eval
-Run shell scripts to eval the models  
+Evaluate the model:
 
-`python eval.py`
+```bash
+python eval.py
+```
 
 ## Show
-Run shell scripts to show rain removal effect"  
+Visualize the deraining results:
 
-`python show.py`
+```bash
+python show.py
+```
 
-# Visual Deraining Results
-coming soon
+# 📷Visual Deraining Results
+BIMNet: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1MuCgKw2Q2qJI53_GTOsBkg?pwd=1314)
 
-# Pretrained Model
-coming soon
+BIMNet_L: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1mkM6aA5bR4cbTFt3EtUeAw?pwd=1314)
 
-# Acknowledgement
+# 📦Pretrained Model
+BIMNet: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1_3ysv0SEXYIM-qrS9m-qkw?pwd=1314)
+
+BIMNet_L: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1VC54_j9sAcXl2q7wOTkjhg?pwd=1314)
+
+# 🙏Acknowledgement
 This code is based on the [RESCAN](https://github.com/XiaLiPKU/RESCAN). Thank them for their sharing.
 
-# Contact
+# 📬Contact
 If you have any questions, please contact fangsiyanfsy@163.com
