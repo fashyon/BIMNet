@@ -37,6 +37,9 @@ BIMNet: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1_3ysv0SEXYIM-qrS9
 
 BIMNet_L: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1VC54_j9sAcXl2q7wOTkjhg?pwd=1314)
 
+# 📂CORain1000 dataset
+CORain1000 dataset: [Download Link (Baidu Cloud)](https://pan.baidu.com/s/1IT_gXbiTT27UfSvfmbTraw?pwd=1314)
+
 # 🙏Acknowledgement
 This code is based on the [RESCAN](https://github.com/XiaLiPKU/RESCAN). Thank them for their sharing.
 
